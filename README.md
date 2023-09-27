@@ -17,3 +17,7 @@ A React app for crafting Memory Palaces, integrating OpenAI's API to generate mn
 -daisyui
 -tailwindcss
 -vite
+
+## Other
+
+-OpenAI API
